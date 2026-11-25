@@ -1,5 +1,8 @@
-# DiagramAI — AI-Powered LaTeX Diagram Generator for Academic Research
-
+<h1 align="center">
+   DiagramAI<br>
+   AI-Powered LaTeX Diagram Generator for Academic Research
+</h1>
+  
 <p align="center">
   <strong>Transform Research Ideas into Publication-Ready Diagrams with AI.</strong>
 </p>
